@@ -1,9 +1,9 @@
 <br />
 <p align="center">
   <a href="https://github.com/DemidovVladimir/flatiron">
-    <img src="static/gophercises_logo.png" alt="Logo">
+    <p class="h3 text-center">🐍 Python 💌</p>
   </a>
-
+  
   <h3 align="center">Flatiron task</h3>
 
 
